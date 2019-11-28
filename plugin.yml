@@ -1,0 +1,7 @@
+name: ArmorStand
+version: 1.0
+author: MarcJus
+main: fr.marcjus.armorstand.Main
+commands:
+  as:
+    description: fait apparaitre une armor stand
